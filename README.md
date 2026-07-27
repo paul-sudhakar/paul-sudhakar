@@ -6,6 +6,14 @@ I am passionate about designing and building practical electronics systems that 
 
 ---
 
+## 🏆 Achievements
+
+### 🥇 National Finalist — vivo Ignite Science and Innovation Awards 2023
+
+Project: **LPG Gas Leakage Detector**
+
+Recognized as a National Finalist for developing an LPG Gas Leakage Detector, an electronics-based safety system focused on real-world problem solving and innovation.
+
 ## 🚀 Projects
 
 ### 🚗 Tata Nano EV Conversion
