@@ -2,7 +2,7 @@
 
 ### Building Real-World Electronics Through Innovation and Engineering ⚡
 
-I am passionate about designing and building practical electronics systems that solve real-world problems. My interests span electronic projeccts, embedded systems, electric vehicles, solar energy, lithium battery technology, PCB design, and automation. I believe the best way to learn engineering is by designing, building, testing, and continuously improving real projects.
+I am passionate about designing and building practical electronics systems that solve real-world problems. My interests span electronic projects, embedded systems, electric vehicles, solar energy, lithium battery technology, PCB design, and automation. I believe the best way to learn engineering is by designing, building, testing, and continuously improving real projects.
 
 ---
 
