@@ -38,8 +38,6 @@ Worked on numerous electronics projects involving Arduino, sensors, relays, MOSF
 - Electronics
 - Embedded Systems
 - Arduino
-- C Programming
-- Python
 - Electrical Wiring & Troubleshooting
 - Motor Control
 - Battery Management Systems (BMS)
@@ -51,9 +49,8 @@ Worked on numerous electronics projects involving Arduino, sensors, relays, MOSF
 ## 📚 Currently Learning
 
 - STM32 Microcontrollers
-- Embedded C
-- KiCad PCB Design
-- Git & GitHub
+- C Programming
+- Python
 - Advanced Circuit Design
 
 ---
